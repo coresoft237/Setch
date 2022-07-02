@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+header,aside,footer,a,i
+{
+	display:none;
+}
+.modif
+{
+	display:none;
+}
+body
+{
+	font-family:Serif;
+
+}
+
+#main-content,.wrapper,.mt,.col-md-12,.content-panel
+{
+	margin:auto;
+	height:100%;
+}
+h4
+{
+	margin:0;
+	padding:0;
+	text-indent:0;
+	line-height:25pt;
+	font-size:25pt;
+	
+}
+th
+{
+	
+
+	font-size:100%;
+	
+}
+
+.content-panel
+{
+	width:100%;
+	
+}
+.row1
+{
+	margin-top:-5%;
+}
+.row2
+{
+	display:inline-flex;
+	width:30%;
+	margin-left:70%;
+	text-align:justify;
+}
+

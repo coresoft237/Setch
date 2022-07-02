@@ -1,0 +1,182 @@
+@charset "ISO-8859-1";
+.creation
+{
+	width:25%;
+	height:30px;
+	margin-left:2%;
+	text-align:center;
+	border-radius:10px;
+	background-color:#4ECDC4;
+	padding-top:1px;
+}
+
+.creation1
+{
+	color:white;
+}
+#tb{
+	background-color:red !important;
+}
+header
+{
+	display:inline-flex;
+	
+	
+}
+#login-page{
+
+	/*display:inline-flex;
+	height:100%;
+	width:100%;*/
+
+}
+.container1{
+	/*border:solid;
+position:center;
+	height:100%;*/
+}
+.cadre1{
+
+	width:100%;
+	height:90%;
+	display:inline-flex;
+}
+.cadre11{
+	padding:5%;
+	width:40%;
+}
+
+.grand
+{
+	display:inline-flex;
+	justify-content:space-between;
+	width:84%;
+}
+.bande{
+	display:inline-flex;
+	justify-content:space-between;
+	width:90%;
+	color:white ;
+}
+.infos
+{
+	width:60%;
+	height:70%;
+	margin-top:1%;
+	
+}
+.fleche
+{
+
+	display:inline-flex;
+	width:200%;
+}
+marquee
+{
+	color:white;
+	font-size:medium;
+}
+
+
+.recherche
+{
+	width:25%;
+	margin-left:2%;
+	
+}
+
+.content-panel
+{
+width:70%;	
+}
+.retour 
+{
+
+}
+.contient1
+{
+	
+	width:100%;
+}
+.basfacture
+{
+
+	display:inline-flex;
+	justify-content:space-between;
+	width:100%;
+	
+}
+
+
+
+.compte
+{
+	margin-top:3%;
+}
+button
+{
+	width:10%;
+}
+.f
+{
+	width:30%;
+}
+
+.login-wrap1
+{
+	margin-top:-40%;
+}
+.totalfacture
+{
+	width:30%;
+	
+	color:#4ECDC4;
+}
+.boutonfacture
+{
+	width:30%;
+	margin-left:40%;
+	color:#4ECDC4;
+	color:white;
+	margin-top:5%;
+}
+.pane
+{
+	width:100%;
+}
+
+#main-content
+{
+
+	height:90%;
+
+}
+
+.entreprise
+{
+	
+	margin-top:-10%;
+}
+
+.col1
+{
+	width:100%;
+}
+.fleche
+{
+	width:100%;
+	
+}
+.fa-reply-all
+{
+	font-size:10px;
+}
+#besoin{
+	height:50px;
+	width:100%;
+	padding:1%;
+	display:inline-flex;
+	justify-content:space-between;
+	
+	
+}
